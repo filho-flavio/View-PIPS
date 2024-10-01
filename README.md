@@ -68,7 +68,7 @@ Após instalar as dependências e configurar o ambiente, inicie a aplicação lo
 npm run dev
 ```
 
-A aplicação será executada em `http://localhost:3000`.
+A aplicação será executada em `http://localhost:5173/`.
 
 ## Scripts Disponíveis
 
