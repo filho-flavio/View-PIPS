@@ -1,0 +1,16 @@
+.main-content {
+  position: relative;
+  left: 16rem;
+  width: 86.69%;
+  overflow: hidden;
+
+  background-image: url("src\\assets\\images\\logo-pips-2.png");
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content img{
+  width: 100%;
+  height: 100vh;
+}

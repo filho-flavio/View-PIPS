@@ -1,0 +1,47 @@
+.grafico-evolucao-dengue {
+    background-color: #dae6eb;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.grafico-evolucao-srag {
+    background-color: #ebddda;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.grafico-evolucao-nasc {
+    background-color: #dae6eb;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.grafico-evolucao-mortalidade {
+    background-color: #ebddda;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.grafico-evolucao-causas-morte {
+    background-color: #dae6eb;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.grafico-evolucao-obitos-ano {
+    background-color: #ebddda;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.grafico-evolucao-taxas-mortalidade {
+    background-color: #dae6eb;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.grafico-evolucao-atendimentos {
+    background-color: #dae6eb;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
